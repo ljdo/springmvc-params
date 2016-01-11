@@ -33,7 +33,7 @@
 </head>
 <body>
 
-    <h2>${index},<span style="color:red;font-weight: 600;">注意：以下基于json方式传递参数的必须在配置MappingJackson2HttpMessageConverter下才生效，不然报错</span></h2>
+    <h2>${index},<span style="color:red;font-weight: 600;">注意：以下基于json方式传递参数的必须在配置MappingJackson2HttpMessageConverter下才生效，不然报错。下面有一点要注意的，当dataType指定为json的时候，后台返回一定是json对象，这一点可能容易忽略，否则无法得到返回值</span></h2>
     <hr>
     <div class="box">
         <button onclick="test01()">简单的参数传递01</button>

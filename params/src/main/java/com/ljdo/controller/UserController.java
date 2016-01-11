@@ -24,7 +24,7 @@ public class UserController {
     }
 
     /**
-     * ²ÎÊı
+     * å‚æ•°
      * @param name
      * @param age
      * @return
@@ -36,7 +36,7 @@ public class UserController {
     }
 
     /**
-     * ²ÎÊı
+     * å‚æ•°
      * @param name
      * @param age
      * @return
@@ -48,7 +48,7 @@ public class UserController {
     }
 
     /**
-     * ¶ÔÏó
+     * å¯¹è±¡
      * @param user
      * @return
      */
@@ -59,7 +59,7 @@ public class UserController {
     }
 
     /**
-     * ¶ÔÏó
+     * å¯¹è±¡
      * @param user
      * @return
      */
@@ -70,7 +70,7 @@ public class UserController {
     }
 
     /**
-     * ×Ö·û´®¼¯ºÏ
+     * å­—ç¬¦ä¸²é›†åˆ
      * @param list
      * @return
      */
@@ -81,7 +81,7 @@ public class UserController {
     }
 
     /**
-     * ¶ÔÏó¼¯ºÏ
+     * å¯¹è±¡é›†åˆ
      * @param users
      * @return
      */
@@ -92,7 +92,7 @@ public class UserController {
     }
 
     /**
-     * ¶ÔÏóÊı×é
+     * å¯¹è±¡æ•°ç»„
      * @param users
      * @return
      */
@@ -103,7 +103,7 @@ public class UserController {
     }
 
     /**
-     * map¼¯ºÏ
+     * mapé›†åˆ
      * @param list
      * @return
      */
@@ -114,7 +114,7 @@ public class UserController {
     }
 
     /**
-     * ¶ÔÏóÖĞÓĞ¶ÔÏó¼¯ºÏ
+     * å¯¹è±¡ä¸­æœ‰å¯¹è±¡é›†åˆ
      * @param list
      * @return
      */
@@ -125,7 +125,7 @@ public class UserController {
     }
 
     /**
-     * ×Ö·û´®Êı×é
+     * å­—ç¬¦ä¸²æ•°ç»„
      * @param str
      * @return
      */
@@ -136,7 +136,7 @@ public class UserController {
     }
 
     /**
-     * PathVariable ÆæİâµÄIntegerÊı×é´«µİ·½Ê½£¨É÷ÓÃ£©
+     * PathVariable å¥‡è‘©çš„Integeræ•°ç»„ä¼ é€’æ–¹å¼ï¼ˆæ…ç”¨ï¼‰
      * @param ids
      * @return
      */
